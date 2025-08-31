@@ -1,58 +1,79 @@
-# 👋 Hi, I'm Adity Raguvanshi  
-### Finance Management Professional | Financial Planning & Analysis | Risk & Investment Strategy  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/8jZ1cXj/finance-banner.gif" alt="Finance Banner" width="100%" />
+</p>
 
-💼 I am a **Finance Management Professional** with expertise in driving business growth through financial planning, analysis, and data-driven decision-making. I specialize in **corporate finance, investment strategies, and risk management** to help organizations achieve sustainable success.  
-
----
-
-## 🏦 About Me
-- 📊 Skilled in **Financial Planning & Analysis (FP&A)**, Budgeting, Forecasting, and Variance Analysis  
-- 💹 Experienced in **Corporate Finance, Treasury Management, and Risk Assessment**  
-- 📑 Strong knowledge of **Accounting Standards (IFRS, GAAP)** and Regulatory Compliance  
-- 🔍 Passionate about **Data Analytics in Finance** using Excel, Power BI, and Python  
-- 🌍 Interested in **Financial Markets, Investment Banking, and Portfolio Management**  
+# 👋 Hi, I'm [Your Name]  
+### 💼 Finance Management Professional | 📊 FP&A | 📈 Investment Strategy | 🏦 Risk Management  
 
 ---
 
-## ⚡ Core Competencies
-✔️ Financial Statement Analysis  
-✔️ Strategic Financial Planning  
-✔️ Investment & Portfolio Management  
-✔️ Risk Assessment & Compliance  
-✔️ Capital Budgeting & Valuation  
-✔️ Cost Optimization & Profitability Analysis  
-✔️ Business Performance Metrics  
+## ✨ About Me
+<p align="left">
+I am a **Finance Management Professional** with a passion for **financial planning, risk management, and data-driven investment strategies**.  
+I help organizations optimize their **financial performance, compliance, and long-term growth** using modern tools & analytics.  
+</p>
+
+💡 *“Finance is the art of turning numbers into decisions that drive impact.”*  
+
+---
+
+## 🏦 Core Competencies
+- 📊 **Financial Planning & Analysis (FP&A)**  
+- 📈 **Investment & Portfolio Management**  
+- 🧾 **Accounting Standards (IFRS, GAAP)**  
+- 🛡 **Risk Assessment & Compliance**  
+- 💹 **Capital Budgeting & Valuation**  
+- 📉 **Cost Optimization & Profitability Analysis**  
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Spreadsheets & BI:** Excel (Advanced), Power BI, Tableau  
-- **Accounting Systems:** SAP, Oracle ERP, QuickBooks  
-- **Analytics & Programming:** Python (Pandas, NumPy, Matplotlib), R (basic)  
-- **Databases:** SQL (for financial data handling)  
-- **Other Tools:** Bloomberg Terminal, MS PowerPoint (Financial Modeling & Reporting)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
 ---
 
 ## 📚 Certifications & Education
-🎓 **MBA in Finance / M.Com / CFA (if applicable)**  
+🎓 **MBA in Finance / CFA / FRM (if applicable)**  
 📜 Certifications:  
-- Chartered Financial Analyst (CFA) / FRM / CPA (if applicable)  
-- Financial Modeling & Valuation Analyst (FMVA)  
-- Data Analytics for Finance  
+- 📌 Chartered Financial Analyst (CFA) / CPA / FRM  
+- 📌 Financial Modeling & Valuation Analyst (FMVA)  
+- 📌 Data Analytics for Finance  
 
 ---
 
-## 📊 GitHub Stats (Professional Profile Enhancements)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=blueberry" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=blueberry" height="180" />
+</p>
+
+---
+
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="250" alt="Finance Animation" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: [your.email@example.com]  
-- 🌍 Portfolio: [Your Portfolio Website]  
-
----
-✨ _“Finance is not just about numbers, it’s about creating value and building trust.”_
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
