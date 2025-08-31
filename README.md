@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/8jZ1cXj/finance-banner.gif" alt="Finance Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm ADITYA
 ### 💼 Finance Management Professional | 📊 FP&A | 📈 Investment Strategy | 🏦 Risk Management  
 
 ---
